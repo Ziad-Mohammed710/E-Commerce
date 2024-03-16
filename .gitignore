@@ -1,0 +1,22 @@
+# ASP .NET Core
+*.obj
+*.exe
+*.dll
+*.log
+*.vscode/
+*.vs/
+*.suo
+*.cache
+*.user
+*.pidb
+*.pdb
+*.xml
+bin/
+obj/
+node_modules/
+bower_components/
+.DS_Store
+
+# ASP .NET Framework
+[Oo]bj/
+[Bb]in/
